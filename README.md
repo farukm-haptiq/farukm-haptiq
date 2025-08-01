@@ -9,7 +9,7 @@
 - 🛜 Building innovative web projects - check out my [portfolio](https://faruk-portfolio-v2.netlify.app/)
 - 👨🏼‍🎓 MCA Graduate (2024) from Pune University
 - 🏢 Working as a Full Stack Web Developer since 2024
-- 💻 Specialized in Next.js, TypeScript, and Tailwind CSS
+- 💻 Specialized in Next.js, TypeScript, MERN Stack and Tailwind CSS
 - 🌱 Always eager to learn, collaborate, and grow in the tech community
 
 # 💻 Tech Stack:
